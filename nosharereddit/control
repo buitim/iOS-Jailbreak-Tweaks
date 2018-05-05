@@ -1,0 +1,10 @@
+Package: com.dannyglover.nosharereddit
+Name: NoShareReddit
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable the Reddit share button in the Reddit app.
+Depiction: http://dannyglover.github.io/repo/Files/NoShareReddit/index.html
+Maintainer: Danny Glover
+Author: Danny Glover
+Section: Tweaks

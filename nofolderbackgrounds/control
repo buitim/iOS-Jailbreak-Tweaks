@@ -1,0 +1,10 @@
+Package: com.dannyglover.nofolderbackground
+Name: NoFolderBackground
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes folder backgrounds on iOS 10.
+Maintainer: Danny Glover
+Author: Danny Glover
+Section: Tweaks
+Depiction: http://dannyglover.github.io/repo/Files/NoFolderBackground/index.html

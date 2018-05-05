@@ -1,0 +1,10 @@
+Package: com.dannyglover.keepbanners
+Name: KeepBanners
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Keep notification banners on screen until dismissed.
+Depiction: http://dannyglover.github.io/repo/Files/KeepBanners/index.html
+Maintainer: Danny Glover
+Author: Danny Glover
+Section: Tweaks

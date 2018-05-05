@@ -1,0 +1,10 @@
+Package: com.dannyglover.nottoday10
+Name: NotToday10
+Depends: mobilesubstrate
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Disables the today/spotlight screen in all areas of iOS 10.
+Maintainer: Danny Glover
+Author: Danny Glover
+Section: Tweaks
+Depiction: http://dannyglover.github.io/repo/Files/NotToday10/index.html

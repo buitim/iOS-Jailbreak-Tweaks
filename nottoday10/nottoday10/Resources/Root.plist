@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>General Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dannyglover.nottoday10</string>
+			<key>key</key>
+			<string>enableInSpringboard</string>
+			<key>label</key>
+			<string>Hide in Springboard</string>
+			<key>PostNotification</key> <string>com.dannyglover.nottoday10/settingschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dannyglover.nottoday10</string>
+			<key>key</key>
+			<string>enableInNotificationCenter</string>
+			<key>label</key>
+			<string>Hide in Notification Center</string>
+			<key>PostNotification</key> <string>com.dannyglover.nottoday10/settingschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dannyglover.nottoday10</string>
+			<key>key</key>
+			<string>enableInLockScreen</string>
+			<key>label</key>
+			<string>Hide in Lock Screen</string>
+			<key>PostNotification</key> <string>com.dannyglover.nottoday10/settingschanged</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>NotToday10</string>
+</dict>
+</plist>
